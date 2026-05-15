@@ -1,4 +1,4 @@
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e24f8970-7fb3-4d91-959c-b0d1c3b77297" /># EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+
 
 ## Aim: 
 
