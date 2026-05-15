@@ -1,4 +1,4 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e24f8970-7fb3-4d91-959c-b0d1c3b77297" /># EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
 
@@ -128,9 +128,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 <img width="1600" height="900" alt="WhatsApp Image 2026-05-12 at 4 17 28 PM" src="https://github.com/user-attachments/assets/930e3ab3-ec3b-4fcf-b250-832f8c72e0e9" /><br>
 <img width="620" height="328" alt="Screenshot 2026-05-12 160543" src="https://github.com/user-attachments/assets/6cab96f2-3cb2-494d-a821-9549c51a102b" /><br>
 <img width="956" height="473" alt="Screenshot 2026-05-12 155647" src="https://github.com/user-attachments/assets/9b126d39-1e78-4639-8b48-956a753c19e3" /><br>
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d4a1e8a-2333-4184-a657-4505e1098459" />
-<img width="144" height="151" alt="Screenshot 2026-05-12 162815" src="https://github.com/user-attachments/assets/a7d9e8bf-1634-45b5-a19d-6ced2ff93a57" /><br>
-<img width="142" height="176" alt="Screenshot 2026-05-12 162805" src="https://github.com/user-attachments/assets/cf99f9f9-a4a6-4398-a581-de164bf2b589" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d4a1e8a-2333-4184-a657-4505e1098459" /><br><br>
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/467f2519-d67a-4102-ab49-6ffed1bd0438" /><br><br>
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b9b57a9-6af6-4db1-a9fb-bbcac48657c0" />
+
 
 
 
